@@ -1,0 +1,3 @@
+two modes - interactive(REPL - Read Evaluate Print Loop), Script
+
+ES - Ecma Script
